@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TIGERTIDES
 - 👀 I am future HTML/CSS SPECIALIST
-- 🌱 I’m currently learning html, html, html forever 
+- 🌱 HTML is a programming Language
 - 💞️ I’m looking for the solution in the program "Hello World" (Pls help me )
 - 📫 So clean. So Good.
 
